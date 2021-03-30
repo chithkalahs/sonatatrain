@@ -5,4 +5,5 @@ git commit
 git diff
 git show
 git branch from debug branch
+git merge from master
 new line from debug
