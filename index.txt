@@ -4,3 +4,4 @@ git add
 git commit
 git diff
 git show
+git branch from debug branch
